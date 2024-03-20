@@ -1,0 +1,69 @@
+Create Resource Group
+az group create -n az900 -l eastus
+
+List Resource Group
+az group list
+az group list -o table
+az group list -o tsv
+az group list -o json
+az group list -o jsonc
+
+az group list --query "[].name"
+az group list --query "[].{myrgname:name, mylocaton:location}"
+az group list --query "[?location=='eastus']"
+az group list --query "[?location=='eastus'].name"
+az group list --query "[?location=='eastus'].{myrgname:name, mylocaton:location}"
+
+Delete Resource Group
+az group delete -n az900
+
+
+Create VM
+az vm create -n MyVm -g PracticeRG -l eastus --image Ubuntu2204 --admin-username makarand --admin-password complex@1234
+
+az vm create -n MyVm -g PracticeRG -l eastus --image Ubuntu2204 --admin-username makarand --generate-ssh-keys
+
+To Connect using ssh
+ssh makarand@20.163.241.54
+
+
+Stop VM
+az vm stop -n MyVm -g PracticeRG
+
+Start VM & do not wait
+az vm start -n MyVm -g PracticeRG --no-wait
+
+Restart VM
+az vm restart -n MyVm -g PracticeRG
+
+Delete Resource Group in which vm is present
+az group delete -n PracticeRG --no-wait
+
+
+Appservice Plan Create
+az appservice plan create -g PracticeRG -n myplan-1
+az appservice plan delete -n myplan1 -g PracticeRG
+
+
+Create/Stop/Start/Delete Webapp
+az webapp create -n mywebapp211222 -p myplan1 -g PracticeRG
+az webapp stop -n mywebapp211222 -g PracticeRG
+az webapp start -n mywebapp211222 -g PracticeRG
+az webapp restart -n mywebapp211222 -g PracticeRG
+az webapp delete -n mywebapp211222 -g PracticeRG
+
+
+az appservice plan create --name myAppServicePlan --resource-group myResourceGroup --sku B1 --is-linux
+
+az webapp create --resource-group myResourceGroup --plan myAppServicePlan --name myWebApp --runtime "php|7.4"
+
+
+Create storage account
+az storage account create --name mystorageaccount --resource-group myresourcegroup --sku Standard_LRS
+
+az storage account create --name mystorageaccount --resource-group myresourcegroup --sku Standard_LRS --kind StorageV2 --access-tier Hot --replication-type LRS
+
+
+az vm create -n vm-makarand -g TrainingRG -l eastus --image Ubuntu2204 --admin-username makarand --admin-password complex@1234
+
+

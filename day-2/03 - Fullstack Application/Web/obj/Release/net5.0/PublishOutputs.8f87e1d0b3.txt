@@ -1,0 +1,9 @@
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\PubTmp\Out\Web.exe
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\PubTmp\Out\Web.dll
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\PubTmp\Out\Web.deps.json
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\PubTmp\Out\Web.runtimeconfig.json
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\PubTmp\Out\Web.pdb
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\PubTmp\Out\Web.Views.dll
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\PubTmp\Out\Web.Views.pdb

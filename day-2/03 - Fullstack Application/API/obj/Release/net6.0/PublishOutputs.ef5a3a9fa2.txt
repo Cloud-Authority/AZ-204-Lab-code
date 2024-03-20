@@ -1,0 +1,13 @@
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\Api.exe
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\Api.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\Api.deps.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\Api.runtimeconfig.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\Api.pdb
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\Azure.Core.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\Azure.Storage.Blobs.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\Azure.Storage.Common.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\Flurl.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\System.IO.Hashing.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\API\obj\Release\net6.0\PubTmp\Out\System.Memory.Data.dll

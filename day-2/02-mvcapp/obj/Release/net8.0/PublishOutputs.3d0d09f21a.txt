@@ -1,0 +1,7 @@
+D:\Training\Accenture\DEPR\AZ-204\Workspace\day-2\02-mvcapp\obj\Release\net8.0\PubTmp\Out\02-mvcapp.exe
+D:\Training\Accenture\DEPR\AZ-204\Workspace\day-2\02-mvcapp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Training\Accenture\DEPR\AZ-204\Workspace\day-2\02-mvcapp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Training\Accenture\DEPR\AZ-204\Workspace\day-2\02-mvcapp\obj\Release\net8.0\PubTmp\Out\02-mvcapp.dll
+D:\Training\Accenture\DEPR\AZ-204\Workspace\day-2\02-mvcapp\obj\Release\net8.0\PubTmp\Out\02-mvcapp.deps.json
+D:\Training\Accenture\DEPR\AZ-204\Workspace\day-2\02-mvcapp\obj\Release\net8.0\PubTmp\Out\02-mvcapp.runtimeconfig.json
+D:\Training\Accenture\DEPR\AZ-204\Workspace\day-2\02-mvcapp\obj\Release\net8.0\PubTmp\Out\02-mvcapp.pdb

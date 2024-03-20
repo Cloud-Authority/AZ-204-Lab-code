@@ -1,0 +1,13 @@
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.exe
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.deps.json
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.runtimeconfig.json
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\sqlapp.pdb
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\02 - Application - SQL database\sqlapp\sqlapp\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

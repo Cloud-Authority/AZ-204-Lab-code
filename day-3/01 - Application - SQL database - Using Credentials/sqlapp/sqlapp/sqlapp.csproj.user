@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ActiveDebugProfile>sqlapp</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>D:\Training\Accenture\DEPR\AZ-204\Workspace\day-3\01 - Application - SQL database - Using Credentials\sqlapp\sqlapp\Properties\PublishProfiles\mvcapp20240319210555 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+</Project>

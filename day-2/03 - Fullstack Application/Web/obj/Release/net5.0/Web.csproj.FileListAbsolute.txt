@@ -1,0 +1,73 @@
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\bin\Release\net5.0\appsettings.json
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\bin\Release\net5.0\Web.exe
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\bin\Release\net5.0\Web.deps.json
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\bin\Release\net5.0\Web.runtimeconfig.json
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\bin\Release\net5.0\Web.runtimeconfig.dev.json
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\bin\Release\net5.0\Web.dll
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\bin\Release\net5.0\ref\Web.dll
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\bin\Release\net5.0\Web.pdb
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\bin\Release\net5.0\Web.Views.dll
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\bin\Release\net5.0\Web.Views.pdb
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.AssemblyInfoInputs.cache
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.AssemblyInfo.cs
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.csproj.CoreCompileInputs.cache
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.RazorAssemblyInfo.cache
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.RazorAssemblyInfo.cs
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\staticwebassets\Web.StaticWebAssets.Manifest.cache
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\staticwebassets\Web.StaticWebAssets.xml
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\scopedcss\bundle\Web.styles.css
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.TagHelpers.input.cache
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.TagHelpers.output.cache
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.RazorCoreGenerate.cache
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.RazorTargetAssemblyInfo.cache
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.RazorTargetAssemblyInfo.cs
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.Views.pdb
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.csproj.CopyComplete
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.dll
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\ref\Web.dll
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.pdb
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.genruntimeconfig.cache
+D:\Technology\Azure\AZ-204\Lab\Workspace\Lab01 - Build a web application\Web\obj\Release\net5.0\Web.csproj.AssemblyReference.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\bin\Release\net5.0\appsettings.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\bin\Release\net5.0\Web.StaticWebAssets.xml
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\bin\Release\net5.0\Web.exe
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\bin\Release\net5.0\Web.deps.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\bin\Release\net5.0\Web.runtimeconfig.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\bin\Release\net5.0\Web.runtimeconfig.dev.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\bin\Release\net5.0\Web.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\bin\Release\net5.0\Web.pdb
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\bin\Release\net5.0\Web.Views.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\bin\Release\net5.0\Web.Views.pdb
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.csproj.AssemblyReference.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.AssemblyInfoInputs.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.AssemblyInfo.cs
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.csproj.CoreCompileInputs.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.RazorAssemblyInfo.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.RazorAssemblyInfo.cs
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\scopedcss\bundle\Web.styles.css
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\staticwebassets\Web.StaticWebAssets.Manifest.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\staticwebassets\Web.StaticWebAssets.Pack.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\staticwebassets\msbuild.build.Web.props
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\staticwebassets\msbuild.buildTransitive.Web.props
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.TagHelpers.input.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.TagHelpers.output.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.RazorCoreGenerate.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.RazorTargetAssemblyInfo.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.RazorTargetAssemblyInfo.cs
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.Views.pdb
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.csproj.CopyComplete
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\refint\Web.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.pdb
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\Web.genruntimeconfig.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\ref\Web.dll

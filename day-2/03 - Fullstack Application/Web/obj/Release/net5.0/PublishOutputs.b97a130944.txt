@@ -1,0 +1,9 @@
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\PubTmp\Out\Web.exe
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\PubTmp\Out\Web.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\PubTmp\Out\Web.deps.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\PubTmp\Out\Web.runtimeconfig.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\PubTmp\Out\Web.pdb
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\PubTmp\Out\Web.Views.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\02 - Web Api\Web\obj\Release\net5.0\PubTmp\Out\Web.Views.pdb

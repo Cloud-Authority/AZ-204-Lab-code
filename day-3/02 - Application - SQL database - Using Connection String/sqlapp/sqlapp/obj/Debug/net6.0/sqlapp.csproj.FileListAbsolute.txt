@@ -1,0 +1,147 @@
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.csproj.AssemblyReference.cache
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.AssemblyInfoInputs.cache
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.AssemblyInfo.cs
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.csproj.CoreCompileInputs.cache
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.MvcApplicationPartsAssemblyInfo.cache
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.RazorAssemblyInfo.cache
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.RazorAssemblyInfo.cs
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\appsettings.Development.json
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\appsettings.json
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.staticwebassets.runtime.json
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.exe
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.deps.json
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.runtimeconfig.json
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.dll
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\ref\sqlapp.dll
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.pdb
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\tmp\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets.build.json
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets.development.json
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\scopedcss\bundle\sqlapp.styles.css
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\scopedcss\projectbundle\sqlapp.bundle.scp.css
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.csproj.CopyComplete
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.dll
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\ref\sqlapp.dll
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.pdb
+C:\tmp\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.genruntimeconfig.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\appsettings.Development.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\appsettings.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.staticwebassets.runtime.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.exe
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.deps.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.runtimeconfig.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.pdb
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.csproj.AssemblyReference.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.AssemblyInfoInputs.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.AssemblyInfo.cs
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.csproj.CoreCompileInputs.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.RazorAssemblyInfo.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.RazorAssemblyInfo.cs
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets\msbuild.sqlapp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets\msbuild.build.sqlapp.props
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sqlapp.props
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sqlapp.props
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\scopedcss\bundle\sqlapp.styles.css
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\scopedcss\projectbundle\sqlapp.bundle.scp.css
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.csproj.CopyComplete
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\refint\sqlapp.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.pdb
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.genruntimeconfig.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03_Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\ref\sqlapp.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\appsettings.Development.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\appsettings.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.staticwebassets.runtime.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.exe
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.deps.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.runtimeconfig.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.pdb
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.csproj.AssemblyReference.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.AssemblyInfoInputs.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.AssemblyInfo.cs
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.csproj.CoreCompileInputs.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.RazorAssemblyInfo.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.RazorAssemblyInfo.cs
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets\msbuild.sqlapp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets\msbuild.build.sqlapp.props
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sqlapp.props
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sqlapp.props
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\scopedcss\bundle\sqlapp.styles.css
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\scopedcss\projectbundle\sqlapp.bundle.scp.css
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.csproj.CopyComplete
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\refint\sqlapp.dll
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.pdb
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.genruntimeconfig.cache
+D:\Training\TCS\DEPR\Azure Developer\Code\Finished\chap01\03 - Using the Azure Web App connection string\sqlapp\sqlapp\obj\Debug\net6.0\ref\sqlapp.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\appsettings.Development.json
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\appsettings.json
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.staticwebassets.runtime.json
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.exe
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.deps.json
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.runtimeconfig.json
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\sqlapp.pdb
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.csproj.AssemblyReference.cache
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.AssemblyInfoInputs.cache
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.AssemblyInfo.cs
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.csproj.CoreCompileInputs.cache
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.RazorAssemblyInfo.cache
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.RazorAssemblyInfo.cs
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets\msbuild.sqlapp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets\msbuild.build.sqlapp.props
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sqlapp.props
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sqlapp.props
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\scopedcss\bundle\sqlapp.styles.css
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\scopedcss\projectbundle\sqlapp.bundle.scp.css
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.csproj.CopyComplete
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\refint\sqlapp.dll
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.pdb
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\sqlapp.genruntimeconfig.cache
+D:\Training\Accenture\DEPR\AZ-204\Examples\day-2\03 - Application - SQL database - Using Connection String\sqlapp\sqlapp\obj\Debug\net6.0\ref\sqlapp.dll
