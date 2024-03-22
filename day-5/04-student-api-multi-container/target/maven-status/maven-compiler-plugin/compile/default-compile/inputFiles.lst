@@ -1,0 +1,11 @@
+D:\Training\CLSA\Docker\Artifact\Workspace\extra\04-student-api\src\main\java\com\clsa\controller\StudentRestController.java
+D:\Training\CLSA\Docker\Artifact\Workspace\extra\04-student-api\src\main\java\com\clsa\exceptions\NoSuchStudentException.java
+D:\Training\CLSA\Docker\Artifact\Workspace\extra\04-student-api\src\main\java\com\clsa\controller\ProductController.java
+D:\Training\CLSA\Docker\Artifact\Workspace\extra\04-student-api\src\main\java\com\clsa\exceptions\DuplicateStudentException.java
+D:\Training\CLSA\Docker\Artifact\Workspace\extra\04-student-api\src\main\java\com\clsa\model\Student.java
+D:\Training\CLSA\Docker\Artifact\Workspace\extra\04-student-api\src\main\java\com\clsa\dao\StudentRepository.java
+D:\Training\CLSA\Docker\Artifact\Workspace\extra\04-student-api\src\main\java\com\clsa\service\StudentService.java
+D:\Training\CLSA\Docker\Artifact\Workspace\extra\04-student-api\src\main\java\com\clsa\service\StudentServiceImpl.java
+D:\Training\CLSA\Docker\Artifact\Workspace\extra\04-student-api\src\main\java\com\clsa\model\Product.java
+D:\Training\CLSA\Docker\Artifact\Workspace\extra\04-student-api\src\main\java\com\clsa\DemoApplication.java
+D:\Training\CLSA\Docker\Artifact\Workspace\extra\04-student-api\src\main\java\com\clsa\model\Address.java

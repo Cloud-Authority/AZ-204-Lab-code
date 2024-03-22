@@ -1,0 +1,7 @@
+sudo docker build -t webgame:1.0 .
+
+sudo docker run -p 8080:8080 --rm --name webgame-container webgame:1.0
+sudo docker run -p 8080:8080 --rm --name webgame-container -d webgame:1.0
+
+http://host-ip:8080/app-name
+http://4.246.189.7:8080/maven-game/

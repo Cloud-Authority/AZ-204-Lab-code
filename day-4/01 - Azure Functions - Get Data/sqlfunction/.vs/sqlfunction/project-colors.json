@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22f45eec-9b3a-4b64-8cfa-508eb87596b9": {
+      "ProjectGuid": "22f45eec-9b3a-4b64-8cfa-508eb87596b9",
+      "DisplayName": "sqlfunction",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

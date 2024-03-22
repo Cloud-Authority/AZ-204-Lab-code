@@ -1,0 +1,11 @@
+com\clsa\controller\StudentRestController.class
+com\clsa\controller\ProductController.class
+com\clsa\exceptions\NoSuchStudentException.class
+com\clsa\service\StudentService.class
+com\clsa\model\Student.class
+com\clsa\dao\StudentRepository.class
+com\clsa\model\Product.class
+com\clsa\service\StudentServiceImpl.class
+com\clsa\DemoApplication.class
+com\clsa\model\Address.class
+com\clsa\exceptions\DuplicateStudentException.class
